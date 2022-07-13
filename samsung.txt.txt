@@ -1,0 +1,3 @@
+Create test cases 
+go to craete button 
+select the issue type 
